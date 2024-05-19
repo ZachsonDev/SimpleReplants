@@ -1,12 +1,12 @@
 <div align="center">
     <h1>SimpleReplants</h1>
-        <img src="src/main/resources/icon/SimpleReplantsLogo.png" alt="SimpleReplants Logo" width="400" height="400"/>
+        <img src="src/main/resources/Icon/SimpleReplantsLogo.png" alt="SimpleReplants Logo" width="400" height="400"/>
         <p>Automatically replants crops and saplings!</p>
 </div>
 
 # Description
 
-<img src="src/main/resources/gifs/SimpleReplants.gif" alt="SimpleReplants Gif"/>
+<img src="src/main/resources/Gifs/SimpleReplants.gif" alt="SimpleReplants Gif"/>
 
 RePlant can automatically replant crops and plant fallen down saplings. Every player can disable/enable this feature individually using the /replant command. By default, only fully grown crops are automatically replanted. It's also possible to only have crops replanted that were harvested with a right-click.
 
@@ -30,4 +30,4 @@ Allows to use the /replant command
 replant.reload
 Allows to reload the config using /replant reload
 
-<img src="src/main/resources/gifs/ZachsonDev.gif" alt="SimpleReplants Gif"/>
+<img src="src/main/resources/Gifs/ZachsonDev.gif" alt="SimpleReplants Gif"/>
